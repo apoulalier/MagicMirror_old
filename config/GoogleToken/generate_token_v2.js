@@ -37,7 +37,6 @@ async function generate() {
   if (client.credentials && config.savedTokensPath) {
     if (config.savedTokensPath) {
       const tp = path.resolve(__dirname, config.savedTokensPath);
-      await mkdirp(path.dirname(tp));
       fs.writeFileSync(tp, JSON.stringify(client.credentials));
       console.log("Token is generated. check it. (ls -al)");
     }
