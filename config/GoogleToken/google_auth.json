@@ -1,5 +1,5 @@
 {
   "keyFilePath": "/home/mm/MagicMirror/config/GoogleToken/credentials.json",
   "savedTokensPath": "/home/mm/MagicMirror/config/GoogleToken/token.json",
-  "scope": "https://www.googleapis.com/auth/photoslibrary.readonly https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/tasks.readonly https://www.googleapis.com/auth/contacts.readonly"
+  "scope": "https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/tasks.readonly https://www.googleapis.com/auth/contacts.readonly"
 }
