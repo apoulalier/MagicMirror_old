@@ -1,54 +1,30 @@
 {
-  "anytime": [
-    "Tu es incroyable !",
-    "Ton sourire illumine ma journée !",
-    "Tu es une source d'inspiration !",
-    "Tu es vraiment unique en ton genre.",
-    "Ta gentillesse est contagieuse.",
-    "Tu as un cœur en or.",
-    "Tu es plus fort(e) que tu ne le penses.",
-    "Tu es une bouffée d'air frais.",
-    "Tu es capable de tout accomplir.",
-    "Tu es une personne extraordinaire.",
-    "Tu as un talent fou.",
-    "Tu es une véritable étoile.",
-    "Tu es la meilleure version de toi-même.",
-    "Tu es un(e) vrai(e) héros/héroïne.",
-    "Tu es une lumière dans ce monde.",
-    "Tu es une personne exceptionnelle.",
-    "Tu es un(e) vrai(e) battant(e).",
-    "Tu es une source de bonheur.",
-    "Tu es une personne admirable.",
-    "Tu es un(e) vrai(e) champion(ne)."
-  ],
-  "morning": [
-    "Bonjour, rayon de soleil !",
-    "Qui a besoin de café quand on a ton sourire ?",
-    "Vas-y, champion(ne) !",
-    "La journée commence bien grâce à toi !",
-    "Tu es la meilleure façon de commencer la journée."
-  ],
-  "afternoon": [
-    "Tu es en pleine forme !",
-    "Tu fais une différence !",
-    "Tu es plus amusant(e) que du papier bulle !",
-    "Ton énergie est contagieuse !",
-    "Tu es la star de l'après-midi !"
-  ],
-  "evening": [
-    "Tu as fait sourire quelqu'un aujourd'hui, j'en suis sûr(e).",
-    "Tu fais une différence.",
-    "La journée a été meilleure grâce à toi.",
-    "Tu es la douceur de la soirée.",
-    "Ton calme est apaisant."
-  ],
-  "....-04-22": [
-    "Bonne fête Alexandre !"
-  ],
-  "....-07-20": [
-    "Bonne fête Élie !"
-  ],
-  "....-03-21": [
-    "Bonne fête Clémence !"
-  ]
+	"anytime": [
+		"Tu es incroyable !",
+		"Ton sourire illumine ma journée !",
+		"Tu es une source d'inspiration !",
+		"Tu es vraiment unique en ton genre.",
+		"Ta gentillesse est contagieuse.",
+		"Tu as un cœur en or.",
+		"Tu es plus fort(e) que tu ne le penses.",
+		"Tu es une bouffée d'air frais.",
+		"Tu es capable de tout accomplir.",
+		"Tu es une personne extraordinaire.",
+		"Tu as un talent fou.",
+		"Tu es une véritable étoile.",
+		"Tu es la meilleure version de toi-même.",
+		"Tu es un(e) vrai(e) héros/héroïne.",
+		"Tu es une lumière dans ce monde.",
+		"Tu es une personne exceptionnelle.",
+		"Tu es un(e) vrai(e) battant(e).",
+		"Tu es une source de bonheur.",
+		"Tu es une personne admirable.",
+		"Tu es un(e) vrai(e) champion(ne)."
+	],
+	"morning": ["Bonjour, rayon de soleil !", "Qui a besoin de café quand on a ton sourire ?", "Vas-y, champion(ne) !", "La journée commence bien grâce à toi !", "Tu es la meilleure façon de commencer la journée."],
+	"afternoon": ["Tu es en pleine forme !", "Tu fais une différence !", "Tu es plus amusant(e) que du papier bulle !", "Ton énergie est contagieuse !", "Tu es la star de l'après-midi !"],
+	"evening": ["Tu as fait sourire quelqu'un aujourd'hui, j'en suis sûr(e).", "Tu fais une différence.", "La journée a été meilleure grâce à toi.", "Tu es la douceur de la soirée.", "Ton calme est apaisant."],
+	"....-04-22": ["Bonne fête Alexandre !"],
+	"....-07-20": ["Bonne fête Élie !"],
+	"....-03-21": ["Bonne fête Clémence !"]
 }
